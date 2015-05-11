@@ -1,0 +1,160 @@
+fill 19022
+B1 x Y0   bbx:0-7  ybx:80-87
+B2 x Y0   bbx:8-15  ybx:88-95
+B2 x Y0   bbx:16-23  ybx:96-103
+B1 x Y0   bbx:24-31  ybx:104-111
+B2 x Y0   bbx:32-39  ybx:112-119
+B2 x Y0   bbx:40-47  ybx:0-7
+B1 x Y0   bbx:48-55  ybx:8-15
+B2 x Y0   bbx:56-63  ybx:16-23
+B2 x Y0   bbx:64-71  ybx:24-31
+B1 x Y0   bbx:72-79  ybx:32-39
+B2 x Y0   bbx:80-87  ybx:40-47
+B2 x Y0   bbx:88-95  ybx:48-55
+B1 x Y0   bbx:96-103  ybx:56-63
+B2 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 23 0
+19022:  B[122] x Y[000] <122000> (@ STAR)
+19022:  B[211] x Y[-1-1-1] <210889> (@ CDEV)
+
+fill 19024
+B4 x Y0   bbx:0-7  ybx:80-87
+B4 x Y0   bbx:8-15  ybx:88-95
+B4 x Y0   bbx:16-23  ybx:96-103
+B4 x Y0   bbx:24-31  ybx:104-111
+B4 x Y0   bbx:32-39  ybx:112-119
+B4 x Y0   bbx:40-47  ybx:0-7
+B4 x Y0   bbx:48-55  ybx:8-15
+B4 x Y0   bbx:56-63  ybx:16-23
+B4 x Y0   bbx:64-71  ybx:24-31
+B4 x Y0   bbx:72-79  ybx:32-39
+B4 x Y0   bbx:80-87  ybx:40-47
+B4 x Y0   bbx:88-95  ybx:48-55
+B4 x Y0   bbx:96-103  ybx:56-63
+B4 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 56 0
+19024:  B[444] x Y[000] <444000> (@ STAR)
+19024:  B[333] x Y[-1-1-1] <332889> (@ CDEV)
+
+fill 19026
+B3 x Y0   bbx:0-7  ybx:80-87
+B3 x Y0   bbx:8-15  ybx:88-95
+B3 x Y0   bbx:16-23  ybx:96-103
+B3 x Y0   bbx:24-31  ybx:104-111
+B3 x Y0   bbx:32-39  ybx:112-119
+B3 x Y0   bbx:40-47  ybx:0-7
+B3 x Y0   bbx:48-55  ybx:8-15
+B3 x Y0   bbx:56-63  ybx:16-23
+B3 x Y0   bbx:64-71  ybx:24-31
+B3 x Y0   bbx:72-79  ybx:32-39
+B3 x Y0   bbx:80-87  ybx:40-47
+B3 x Y0   bbx:88-95  ybx:48-55
+B3 x Y0   bbx:96-103  ybx:56-63
+B3 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 42 0
+19026:  B[333] x Y[000] <333000> (@ STAR)
+19026:  B[444] x Y[-1-1-1] <443889> (@ CDEV)
+
+fill 19028
+B2 x Y0   bbx:0-7  ybx:80-87
+B1 x Y0   bbx:8-15  ybx:88-95
+B1 x Y0   bbx:16-23  ybx:96-103
+B2 x Y0   bbx:24-31  ybx:104-111
+B1 x Y0   bbx:32-39  ybx:112-119
+B1 x Y0   bbx:40-47  ybx:0-7
+B2 x Y0   bbx:48-55  ybx:8-15
+B1 x Y0   bbx:56-63  ybx:16-23
+B1 x Y0   bbx:64-71  ybx:24-31
+B2 x Y0   bbx:72-79  ybx:32-39
+B1 x Y0   bbx:80-87  ybx:40-47
+B1 x Y0   bbx:88-95  ybx:48-55
+B2 x Y0   bbx:96-103  ybx:56-63
+B1 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 19 0
+19028:  B[211] x Y[000] <211000> (@ STAR)
+19028:  B[122] x Y[-1-1-1] <121889> (@ CDEV)
+
+fill 19029
+B1 x Y0   bbx:0-7  ybx:80-87
+B2 x Y0   bbx:8-15  ybx:88-95
+B2 x Y0   bbx:16-23  ybx:96-103
+B1 x Y0   bbx:24-31  ybx:104-111
+B2 x Y0   bbx:32-39  ybx:112-119
+B2 x Y0   bbx:40-47  ybx:0-7
+B1 x Y0   bbx:48-55  ybx:8-15
+B2 x Y0   bbx:56-63  ybx:16-23
+B2 x Y0   bbx:64-71  ybx:24-31
+B1 x Y0   bbx:72-79  ybx:32-39
+B2 x Y0   bbx:80-87  ybx:40-47
+B2 x Y0   bbx:88-95  ybx:48-55
+B1 x Y0   bbx:96-103  ybx:56-63
+B2 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 23 0
+19029:  B[122] x Y[000] <122000> (@ STAR)
+19029:  B[211] x Y[-1-1-1] <210889> (@ CDEV)
+
+fill 19032
+B4 x Y0   bbx:0-7  ybx:80-87
+B4 x Y0   bbx:8-15  ybx:88-95
+B4 x Y0   bbx:16-23  ybx:96-103
+B4 x Y0   bbx:24-31  ybx:104-111
+B4 x Y0   bbx:32-39  ybx:112-119
+B4 x Y0   bbx:40-47  ybx:0-7
+B4 x Y0   bbx:48-55  ybx:8-15
+B4 x Y0   bbx:56-63  ybx:16-23
+B4 x Y0   bbx:64-71  ybx:24-31
+B4 x Y0   bbx:72-79  ybx:32-39
+B4 x Y0   bbx:80-87  ybx:40-47
+B4 x Y0   bbx:88-95  ybx:48-55
+B4 x Y0   bbx:96-103  ybx:56-63
+B4 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 56 0
+19032:  B[444] x Y[000] <444000> (@ STAR)
+19032:  B[333] x Y[-1-1-1] <332889> (@ CDEV)
+
+fill 19033
+B3 x Y0   bbx:0-7  ybx:80-87
+B3 x Y0   bbx:8-15  ybx:88-95
+B3 x Y0   bbx:16-23  ybx:96-103
+B3 x Y0   bbx:24-31  ybx:104-111
+B3 x Y0   bbx:32-39  ybx:112-119
+B3 x Y0   bbx:40-47  ybx:0-7
+B3 x Y0   bbx:48-55  ybx:8-15
+B3 x Y0   bbx:56-63  ybx:16-23
+B3 x Y0   bbx:64-71  ybx:24-31
+B3 x Y0   bbx:72-79  ybx:32-39
+B3 x Y0   bbx:80-87  ybx:40-47
+B3 x Y0   bbx:88-95  ybx:48-55
+B3 x Y0   bbx:96-103  ybx:56-63
+B3 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 42 0
+19033:  B[333] x Y[000] <333000> (@ STAR)
+19033:  B[444] x Y[-1-1-1] <443889> (@ CDEV)
+
+fill 19035
+B2 x Y0   bbx:0-7  ybx:80-87
+B1 x Y0   bbx:8-15  ybx:88-95
+B1 x Y0   bbx:16-23  ybx:96-103
+B2 x Y0   bbx:24-31  ybx:104-111
+B1 x Y0   bbx:32-39  ybx:112-119
+B1 x Y0   bbx:40-47  ybx:0-7
+B2 x Y0   bbx:48-55  ybx:8-15
+B1 x Y0   bbx:56-63  ybx:16-23
+B1 x Y0   bbx:64-71  ybx:24-31
+B2 x Y0   bbx:72-79  ybx:32-39
+B1 x Y0   bbx:80-87  ybx:40-47
+B1 x Y0   bbx:88-95  ybx:48-55
+B2 x Y0   bbx:96-103  ybx:56-63
+B1 x Y0   bbx:104-111  ybx:64-71
+B0 x Y0   bbx:112-119  ybx:72-79
+sum: 19 0
+19035:  B[211] x Y[000] <211000> (@ STAR)
+19035:  B[122] x Y[-1-1-1] <121889> (@ CDEV)
+
